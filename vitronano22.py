@@ -3,7 +3,6 @@ import sys
 import json
 import shutil
 from re import search
-from bs4 import UnicodeDammit
 
 def resolve_path(path):
     if getattr(sys, "frozen", False):
