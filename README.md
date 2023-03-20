@@ -20,8 +20,8 @@
 {
     "vitro_path": "/path/to/vitro",
     "nano_path": "/path/to/nanocad",
-    "version_list": ["nCadVersion1", "nCadVersion2"],
-    "arch_list": ["nCadArch1", "nCadArch2"]
+    "version_list": ["30", "29", "28", "27", "26", "25", "24", "23", "22", "21", "20", "11", "10", "8", "7"],
+    "arch_list": [x64", "x32"]
 }
 
 ```
