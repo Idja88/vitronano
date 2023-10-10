@@ -34,4 +34,4 @@ py vitronano.py
 ```
 
 ### Использование с компиляцией в .exe-файл
-Обычно на клиентских машинах не установлен интерпретатор Python, поэтому использование предполагается с компиляцией кода в исполняемый .exe-файл при помощи библиотеки Nuitka(https://github.com/Nuitka/Nuitka) или Pyinstaller(https://github.com/pyinstaller/pyinstaller).
+Обычно на клиентских машинах не установлен интерпретатор Python, поэтому использование предполагается с компиляцией кода в исполняемый .exe-файл при помощи библиотеки [Nuitka](https://github.com/Nuitka/Nuitka) или [Pyinstaller](https://github.com/pyinstaller/pyinstaller).
