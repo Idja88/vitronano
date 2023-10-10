@@ -95,9 +95,7 @@ with open(resolve_path("config.json"), "r") as config_file:
 #Определяем рабочие директории и список файлов для переноса
 dir_list = os.listdir(nano_path)
 vitro_files = os.listdir(vitro_path)
-
 currver = get_vitroini_ver(nano_version_list, vitro_path)
-
 currarch = get_vitroini_arch(nano_arch_list, vitro_path)
 
 #MAIN
